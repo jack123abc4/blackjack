@@ -1,0 +1,8 @@
+/__pycache__
+/build
+/dist
+/older_versions
+*.spec
+fileCheck._py
+highscores.txt
+*.psd
